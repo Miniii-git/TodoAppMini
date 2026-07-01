@@ -34,9 +34,9 @@ The application was successfully built as an Android APK using Apache Cordova.
 
 ## Screenshots
 
-<img width="140" height="300" alt="photo_3_2026-07-01_18-44-38" src="https://github.com/user-attachments/assets/d16986e0-3493-4ef4-80e5-21d54e152b4b" />
-<img width="140" height="300" alt="photo_2_2026-07-01_18-44-38" src="https://github.com/user-attachments/assets/e827a5be-542e-40d5-a5f2-9a476691c11b" />
-<img width="140" height="300" alt="photo_1_2026-07-01_18-44-38" src="https://github.com/user-attachments/assets/6661b6e9-b3a5-4e8a-aeab-d548d3e78612" />
+<img width="180" height="400" alt="photo_3_2026-07-01_18-44-38" src="https://github.com/user-attachments/assets/d16986e0-3493-4ef4-80e5-21d54e152b4b" />
+<img width="180" height="400" alt="photo_2_2026-07-01_18-44-38" src="https://github.com/user-attachments/assets/e827a5be-542e-40d5-a5f2-9a476691c11b" />
+<img width="180" height="400" alt="photo_1_2026-07-01_18-44-38" src="https://github.com/user-attachments/assets/6661b6e9-b3a5-4e8a-aeab-d548d3e78612" />
 
 
 ---
