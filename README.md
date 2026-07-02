@@ -29,7 +29,8 @@ Android Todo App is a task management application developed using Apache Cordova
 
 ## Deployment
 
-The application was successfully built as an Android APK using Apache Cordova.
+The application was successfully built as an Android APK using Apache Cordova. </b>
+Online Demo : https://todoappmini.netlify.app/
 
 
 ## Screenshots
