@@ -2,7 +2,7 @@
 
 ## Overview
 
-Android Todo App is a task management application developed using Apache Cordova. It allows users to create, manage, and organize daily tasks through a simple and intuitive interface. The application demonstrates cross-platform mobile development using web technologies.
+Android Todo App is a task management application developed using Apache Cordova. It allows users to create, manage, and organize daily tasks through a simple and intuitive interface. 
 
 ---
 
