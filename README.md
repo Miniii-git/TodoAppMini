@@ -39,14 +39,3 @@ Online Demo : https://todoappmini.netlify.app/
 <img width="180" height="400" alt="photo_2_2026-07-01_18-44-38" src="https://github.com/user-attachments/assets/e827a5be-542e-40d5-a5f2-9a476691c11b" />
 <img width="180" height="400" alt="photo_1_2026-07-01_18-44-38" src="https://github.com/user-attachments/assets/6661b6e9-b3a5-4e8a-aeab-d548d3e78612" />
 
-
----
-
-## What I Learned
-
-- Cross-platform mobile application development
-- Apache Cordova
-- Mobile UI development
-- DOM manipulation
-- Event handling
-- Application packaging and deployment
